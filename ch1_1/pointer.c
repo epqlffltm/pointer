@@ -21,8 +21,8 @@ int main(void)
   printf("n = %d\n",n);
   printf("*pn = %d\n",n);
 
-  printf("n의 주소: %p\n",n);
-  printf("*pn의 주소: %p\n",n);
+  printf("n의 주소: %p\n",&n);
+  printf("*pn의 주소: %p\n",pn);
 
   return 0;
 }
