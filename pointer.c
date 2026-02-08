@@ -4,7 +4,7 @@
 *, & 의 의미
 */
 
-#include<stio.h>
+#include<stdio.h>
 
 int main(void)
 {
